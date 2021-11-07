@@ -1,4 +1,4 @@
-# With this command, after receiving some input, this command can compare if the name is correct or not. 
+# With this command, after receiving some input, can be compared if the name is correct or not. 
 # if correct
 # elif not correct (else if)
 
