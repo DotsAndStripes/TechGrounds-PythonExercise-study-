@@ -1,13 +1,16 @@
-Variabele1=("Simon")
-Variabele2=("31")
-Variabele3=("hobby is voetbal")
-print("Value 1: "+Variabele1)
-print("Value 2: "+Variabele2)
-print("Value 3: "+Variabele3)
+# Deze opdracht is om te ondervinden dat de variabele binnen 1 script, meerdere waardes kan krijgen.
 
-Variabele4=("Victor")
-Variabele5=str(45)
-Variabele6=("hobby; Wrakduiken")
-print("Value 4: "+Variabele4)
-print("Value 5: "+Variabele5)
-print("Value 6: "+Variabele6)
+a="Marieke"
+print("De naam is:", a)
+a="50"
+print("De leeftijd is:", a)
+a="Volgend jaar 51!"
+print("Dus: ", a)
+
+
+a=100
+print(a)
+a=a+200
+print(a)
+a=a-150
+print(a)
