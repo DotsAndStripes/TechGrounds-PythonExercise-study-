@@ -1,5 +1,5 @@
-# In deze opdracht wordt een variabele aangemaakt.
-# Vervolgens wordt deze variabele geprint. 
+# In this exercise, a variable will be created.
+# And to print it, the next script is writen. 
 
 name="Marieke"
 print("Hello " + name, "!")
