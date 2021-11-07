@@ -1,4 +1,4 @@
-# Deze opdracht is om te ondervinden dat de variabele binnen 1 script, meerdere waardes kan krijgen.
+# With this exercise, we can see that 1 variable within one script, can have multiple values.
 
 a="Marieke"
 print("De naam is:", a)
