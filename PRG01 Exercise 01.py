@@ -1,3 +1,3 @@
-# Opdracht 1
-# Met het commmando print wordt tekst geprint.
+# With this command, the text " Hello World!" will be printed.
+# () have to be used as well as " " 
 print("Hello World!")
