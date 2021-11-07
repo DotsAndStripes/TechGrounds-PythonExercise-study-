@@ -1,3 +1,6 @@
-bakje1=("Victor is de allergrootste koning op de wereld ")
-bakje2=("ook op andere planeten")
-print("Hello "+ bakje1 + bakje2+ "      !!!!")
+# In deze opdracht wordt een variabele aangemaakt.
+# Vervolgens wordt deze variabele geprint. 
+
+name="Marieke"
+print("Hello " + name, "!")
+print("Hello", name, "!")
