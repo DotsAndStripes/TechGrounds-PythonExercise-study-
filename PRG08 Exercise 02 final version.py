@@ -8,7 +8,7 @@ c = input('job title: ')
 d = input('company: ')
 data = [a,b,c,d]
 #writer.writerow(data)
-with open('opdracht82.csv', 'a', encoding='UTF8', newline='') as f:
+with open('PRG08 Exercise 02.csv', 'a', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)
 
     # write the header
